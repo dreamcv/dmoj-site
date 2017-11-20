@@ -1,0 +1,7 @@
+extends base
+- load i18n
+
+block body
+    p
+        - blocktrans with key=activation_key
+            | {{ key }} is an invalid activation key.

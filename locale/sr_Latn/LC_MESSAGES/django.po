@@ -1,0 +1,3764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-17 21:11-0500\n"
+"PO-Revision-Date: 2017-11-17 21:12-0500\n"
+"Last-Translator: Icyene <vulcainus@gmail.com>\n"
+"Language-Team: Serbian (Latin)\n"
+"Language: sr_CS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: website\n"
+"X-Crowdin-Language: sr-CS\n"
+"X-Crowdin-File: django.po\n"
+
+#: .\dmoj\settings.py:227
+msgid "German"
+msgstr ""
+
+#: .\dmoj\settings.py:228
+msgid "English"
+msgstr ""
+
+#: .\dmoj\settings.py:229
+msgid "French"
+msgstr ""
+
+#: .\dmoj\settings.py:230
+msgid "Romanian"
+msgstr ""
+
+#: .\dmoj\settings.py:231
+msgid "Russian"
+msgstr ""
+
+#: .\dmoj\settings.py:232
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: .\dmoj\settings.py:233
+msgid "Vietnamese"
+msgstr ""
+
+#: .\dmoj\settings.py:234
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .\dmoj\urls.py:50 .\templates\base.jade:169
+msgid "Login"
+msgstr ""
+
+#: .\dmoj\urls.py:91 .\templates\base.jade:145
+msgid "Home"
+msgstr ""
+
+#: .\judge\admin\comments.py:40
+#, python-format
+msgid "%d comment successfully hidden."
+msgid_plural "%d comments successfully hidden."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\comments.py:43
+msgid "Hide comments"
+msgstr ""
+
+#: .\judge\admin\comments.py:47
+#, python-format
+msgid "%d comment successfully unhidden."
+msgid_plural "%d comments successfully unhidden."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\comments.py:50
+msgid "Unhide comments"
+msgstr ""
+
+#: .\judge\admin\comments.py:58
+msgid "Associated page"
+msgstr ""
+
+#: .\judge\admin\contest.py:27
+msgid "Included contests"
+msgstr ""
+
+#: .\judge\admin\contest.py:63 .\templates\contest\contest.jade:31
+#: .\templates\problem\list.jade:152 .\templates\problem\list.jade:159
+#: .\templates\solution.jade:3 .\templates\user\user-problems.jade:160
+#: .\templates\user\user-problems.jade:190
+msgid "Problem"
+msgstr ""
+
+#: .\judge\admin\contest.py:90
+msgid "Scheduling"
+msgstr ""
+
+#: .\judge\admin\contest.py:91
+msgid "Details"
+msgstr ""
+
+#: .\judge\admin\contest.py:92 .\templates\contest\ranking-table.jade:2
+msgid "Rating"
+msgstr ""
+
+#: .\judge\admin\contest.py:93 .\templates\contest\ranking-table.jade:3
+msgid "Organization"
+msgstr ""
+
+#: .\judge\admin\contest.py:126
+#, python-format
+msgid "%d contest successfully marked as public."
+msgid_plural "%d contests successfully marked as public."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\contest.py:129
+msgid "Mark contests as public"
+msgstr ""
+
+#: .\judge\admin\contest.py:133
+#, python-format
+msgid "%d contest successfully marked as private."
+msgid_plural "%d contests successfully marked as private."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\contest.py:136
+msgid "Mark contests as private"
+msgstr ""
+
+#: .\judge\admin\contest.py:207
+#, python-format
+msgid "%d participation have scores recalculated."
+msgid_plural "%d participations have scores recalculated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\contest.py:210 .\judge\admin\profile.py:90
+msgid "Recalculate scores"
+msgstr ""
+
+#: .\judge\admin\contest.py:217
+#, python-format
+msgid "%d participation have times recalculated."
+msgid_plural "%d participations have times recalculated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\contest.py:220
+msgid "Recalculate cumulative time"
+msgstr ""
+
+#: .\judge\admin\contest.py:224 .\judge\admin\organization.py:63
+msgid "username"
+msgstr ""
+
+#: .\judge\admin\contest.py:229 .\templates\base.jade:178
+msgid "virtual"
+msgstr ""
+
+#: .\judge\admin\interface.py:27 .\judge\models\interface.py:46
+msgid "link path"
+msgstr ""
+
+#: .\judge\admin\interface.py:61
+msgid "Content"
+msgstr ""
+
+#: .\judge\admin\interface.py:62
+msgid "Summary"
+msgstr ""
+
+#: .\judge\admin\organization.py:32 .\judge\admin\problem.py:168
+#: .\judge\admin\profile.py:59
+msgid "View on site"
+msgstr ""
+
+#: .\judge\admin\problem.py:28
+msgid "Describe the changes you made (optional)"
+msgstr ""
+
+#: .\judge\admin\problem.py:123
+msgid "Social Media"
+msgstr ""
+
+#: .\judge\admin\problem.py:124
+msgid "Taxonomy"
+msgstr ""
+
+#: .\judge\admin\problem.py:125 .\templates\contest\contest.jade:32
+#: .\templates\problem\data.jade:369 .\templates\problem\list.jade:155
+#: .\templates\problem\list.jade:165 .\templates\user\base-users-table.jade:6
+#: .\templates\user\base-users-table.jade:8
+#: .\templates\user\user-problems.jade:162
+msgid "Points"
+msgstr ""
+
+#: .\judge\admin\problem.py:126
+msgid "Limits"
+msgstr ""
+
+#: .\judge\admin\problem.py:127 .\templates\stats\base.jade:7
+#: .\templates\submission\list.jade:190
+msgid "Language"
+msgstr ""
+
+#: .\judge\admin\problem.py:128
+msgid "Justice"
+msgstr ""
+
+#: .\judge\admin\problem.py:129
+msgid "History"
+msgstr ""
+
+#: .\judge\admin\problem.py:165
+msgid "Authors"
+msgstr ""
+
+#: .\judge\admin\problem.py:203
+#, python-format
+msgid "%d problem successfully marked as public."
+msgid_plural "%d problems successfully marked as public."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\problem.py:207
+msgid "Mark problems as public"
+msgstr ""
+
+#: .\judge\admin\problem.py:212
+#, python-format
+msgid "%d problem successfully marked as private."
+msgid_plural "%d problems successfully marked as private."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\problem.py:216
+msgid "Mark problems as private"
+msgstr ""
+
+#: .\judge\admin\profile.py:32 .\judge\views\register.py:30
+#: .\templates\registration\registration_form.jade:133
+#: .\templates\user\edit-profile.jade:75
+msgid "Location"
+msgstr ""
+
+#: .\judge\admin\profile.py:65 .\judge\admin\submission.py:198
+#: .\templates\organization\requests\log.jade:4
+#: .\templates\organization\requests\pending.jade:8
+#: .\templates\ticket\list.jade:207
+msgid "User"
+msgstr ""
+
+#: .\judge\admin\profile.py:70
+#: .\templates\registration\registration_form.jade:120
+msgid "Email"
+msgstr ""
+
+#: .\judge\admin\profile.py:75
+msgid "Timezone"
+msgstr ""
+
+#: .\judge\admin\profile.py:80
+msgid "date joined"
+msgstr ""
+
+#: .\judge\admin\profile.py:87
+#, python-format
+msgid "%d user have scores recalculated."
+msgid_plural "%d users have scores recalculated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\runtime.py:15
+msgid "Disallowed problems"
+msgstr ""
+
+#: .\judge\admin\runtime.py:18
+msgid "These problems are NOT allowed to be submitted in this language"
+msgstr ""
+
+#: .\judge\admin\runtime.py:81
+msgid "Description"
+msgstr ""
+
+#: .\judge\admin\runtime.py:82
+msgid "Information"
+msgstr ""
+
+#: .\judge\admin\runtime.py:83
+msgid "Capabilities"
+msgstr ""
+
+#: .\judge\admin\submission.py:21 .\judge\admin\submission.py:40
+#: .\judge\admin\submission.py:208
+msgid "None"
+msgstr ""
+
+#: .\judge\admin\submission.py:21
+msgid "Not done"
+msgstr ""
+
+#: .\judge\admin\submission.py:21
+msgid "Exceptional"
+msgstr ""
+
+#: .\judge\admin\submission.py:40
+msgid "Unaccepted"
+msgstr ""
+
+#: .\judge\admin\submission.py:83
+#, python-format
+msgctxt "contest problem"
+msgid "%(problem)s in %(contest)s"
+msgstr ""
+
+#: .\judge\admin\submission.py:128 .\judge\admin\submission.py:149
+msgid "You do not have the permission to rejudge submissions."
+msgstr ""
+
+#: .\judge\admin\submission.py:133
+msgid "You do not have the permission to rejudge THAT many submissions."
+msgstr ""
+
+#: .\judge\admin\submission.py:142
+#, python-format
+msgid "%d submission were successfully scheduled for rejudging."
+msgid_plural "%d submissions were successfully scheduled for rejudging."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\submission.py:145
+msgid "Rejudge the selected submissions"
+msgstr ""
+
+#: .\judge\admin\submission.py:178
+#, python-format
+msgid "%d submission were successfully rescored."
+msgid_plural "%d submissions were successfully rescored."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\admin\submission.py:181
+msgid "Rescore the selected submissions"
+msgstr ""
+
+#: .\judge\admin\submission.py:185
+msgid "Problem code"
+msgstr ""
+
+#: .\judge\admin\submission.py:190
+msgid "Problem name"
+msgstr ""
+
+#: .\judge\admin\submission.py:202 .\templates\organization\requests\log.jade:5
+#: .\templates\organization\requests\pending.jade:9
+msgid "Time"
+msgstr ""
+
+#: .\judge\admin\submission.py:210
+#, python-format
+msgid "%d KB"
+msgstr ""
+
+#: .\judge\admin\submission.py:212
+#, python-format
+msgid "%.2f MB"
+msgstr ""
+
+#: .\judge\admin\submission.py:214
+msgid "Memory"
+msgstr ""
+
+#: .\judge\admin\taxon.py:11 .\judge\admin\taxon.py:34
+msgid "Included problems"
+msgstr ""
+
+#: .\judge\admin\taxon.py:14
+msgid "These problems are included in this group of problems"
+msgstr ""
+
+#: .\judge\admin\taxon.py:37
+msgid "These problems are included in this type of problems"
+msgstr ""
+
+#: .\judge\apps.py:7
+msgid "Online Judge"
+msgstr ""
+
+#: .\judge\comments.py:40
+msgid "Comment title"
+msgstr ""
+
+#: .\judge\comments.py:41
+msgid "Comment body"
+msgstr ""
+
+#: .\judge\comments.py:47
+msgid "Your part is silent, little toad."
+msgstr ""
+
+#: .\judge\comments.py:49 .\templates\comments\list.jade:35
+msgid "You need to have solved at least one problem before your voice can be heard."
+msgstr ""
+
+#: .\judge\comments.py:75
+msgid "Posted comment"
+msgstr ""
+
+#: .\judge\forms.py:25
+msgid "Subscribe to contest updates"
+msgstr ""
+
+#: .\judge\forms.py:26
+msgid "Enable experimental features"
+msgstr ""
+
+#: .\judge\forms.py:51
+#, python-brace-format
+msgid "You may not be part of more than {count} public organizations."
+msgstr ""
+
+#: .\judge\forms.py:109 .\judge\views\register.py:26
+#: .\templates\registration\registration_form.jade:118
+#: .\templates\user\base-users-table.jade:5
+msgid "Username"
+msgstr ""
+
+#: .\judge\forms.py:110 .\templates\registration\registration_form.jade:122
+#: .\templates\registration\registration_form.jade:130
+msgid "Password"
+msgstr ""
+
+#: .\judge\models\choices.py:60
+msgid "Leave as LaTeX"
+msgstr ""
+
+#: .\judge\models\choices.py:61
+msgid "SVG with PNG fallback"
+msgstr ""
+
+#: .\judge\models\choices.py:62
+msgid "MathML only"
+msgstr ""
+
+#: .\judge\models\choices.py:63
+msgid "MathJax with SVG/PNG fallback"
+msgstr ""
+
+#: .\judge\models\choices.py:64
+msgid "Detect best quality"
+msgstr ""
+
+#: .\judge\models\comment.py:36
+msgid "commenter"
+msgstr ""
+
+#: .\judge\models\comment.py:37
+msgid "posted time"
+msgstr ""
+
+#: .\judge\models\comment.py:38
+msgid "associated Page"
+msgstr ""
+
+#: .\judge\models\comment.py:40
+msgid "Page code must be ^[pc]:[a-z0-9]+$|^b:\\d+$"
+msgstr ""
+
+#: .\judge\models\comment.py:41
+msgid "votes"
+msgstr ""
+
+#: .\judge\models\comment.py:42
+msgid "title of comment"
+msgstr ""
+
+#: .\judge\models\comment.py:43
+msgid "body of comment"
+msgstr ""
+
+#: .\judge\models\comment.py:44
+msgid "hide the comment"
+msgstr ""
+
+#: .\judge\models\comment.py:45
+msgid "parent"
+msgstr ""
+
+#: .\judge\models\comment.py:49
+msgid "comment"
+msgstr ""
+
+#: .\judge\models\comment.py:50
+msgid "comments"
+msgstr ""
+
+#: .\judge\models\comment.py:115 .\judge\models\problem.py:353
+#, python-format
+msgid "Editorial for %s"
+msgstr ""
+
+#: .\judge\models\comment.py:146
+msgid "comment vote"
+msgstr ""
+
+#: .\judge\models\comment.py:147
+msgid "comment votes"
+msgstr ""
+
+#: .\judge\models\contest.py:20
+msgid "Invalid colour."
+msgstr ""
+
+#: .\judge\models\contest.py:22
+msgid "tag name"
+msgstr ""
+
+#: .\judge\models\contest.py:23
+msgid "Lowercase letters and hyphens only."
+msgstr ""
+
+#: .\judge\models\contest.py:24
+msgid "tag colour"
+msgstr ""
+
+#: .\judge\models\contest.py:25
+msgid "tag description"
+msgstr ""
+
+#: .\judge\models\contest.py:44
+msgid "contest tag"
+msgstr ""
+
+#: .\judge\models\contest.py:45 .\judge\models\contest.py:83
+msgid "contest tags"
+msgstr ""
+
+#: .\judge\models\contest.py:49
+msgid "contest id"
+msgstr ""
+
+#: .\judge\models\contest.py:50
+msgid "Contest id must be ^[a-z0-9]+$"
+msgstr ""
+
+#: .\judge\models\contest.py:51
+msgid "contest name"
+msgstr ""
+
+#: .\judge\models\contest.py:52
+msgid "These people will be able to edit the contest."
+msgstr ""
+
+#: .\judge\models\contest.py:54 .\judge\models\runtime.py:118
+msgid "description"
+msgstr ""
+
+#: .\judge\models\contest.py:55 .\judge\models\problem.py:304
+#: .\judge\models\runtime.py:120
+msgid "problems"
+msgstr ""
+
+#: .\judge\models\contest.py:56 .\judge\models\contest.py:149
+msgid "start time"
+msgstr ""
+
+#: .\judge\models\contest.py:57
+msgid "end time"
+msgstr ""
+
+#: .\judge\models\contest.py:58 .\judge\models\problem.py:109
+#: .\judge\models\problem.py:328
+msgid "time limit"
+msgstr ""
+
+#: .\judge\models\contest.py:59 .\judge\models\problem.py:115
+msgid "publicly visible"
+msgstr ""
+
+#: .\judge\models\contest.py:60
+msgid "Should be set even for organization-private contests, where it determines whether the contest is visible to members of the specified organizations."
+msgstr ""
+
+#: .\judge\models\contest.py:63
+msgid "contest rated"
+msgstr ""
+
+#: .\judge\models\contest.py:63
+msgid "Whether this contest can be rated."
+msgstr ""
+
+#: .\judge\models\contest.py:65
+msgid "no comments"
+msgstr ""
+
+#: .\judge\models\contest.py:66
+msgid "Use clarification system instead of comments."
+msgstr ""
+
+#: .\judge\models\contest.py:68
+msgid "rate all"
+msgstr ""
+
+#: .\judge\models\contest.py:68
+msgid "Rate all users who joined."
+msgstr ""
+
+#: .\judge\models\contest.py:69
+msgid "exclude from ratings"
+msgstr ""
+
+#: .\judge\models\contest.py:71
+msgid "private to organizations"
+msgstr ""
+
+#: .\judge\models\contest.py:72
+msgid "hide problem tags"
+msgstr ""
+
+#: .\judge\models\contest.py:73
+msgid "Whether problem tags should be hidden by default."
+msgstr ""
+
+#: .\judge\models\contest.py:75
+msgid "run pretests only"
+msgstr ""
+
+#: .\judge\models\contest.py:76
+msgid "Whether judges should grade pretests only, versus all testcases. Commonly set during a contest, then unset prior to rejudging user submissions when the contest ends."
+msgstr ""
+
+#: .\judge\models\contest.py:80 .\judge\models\profile.py:68
+msgid "organizations"
+msgstr ""
+
+#: .\judge\models\contest.py:81
+msgid "If private, only these organizations may see the contest"
+msgstr ""
+
+#: .\judge\models\contest.py:82 .\judge\models\problem.py:123
+msgid "OpenGraph image"
+msgstr ""
+
+#: .\judge\models\contest.py:84
+msgid "the amount of live participants"
+msgstr ""
+
+#: .\judge\models\contest.py:85
+msgid "contest summary"
+msgstr ""
+
+#: .\judge\models\contest.py:86 .\judge\models\problem.py:125
+msgid "Plain-text, shown in meta description tag, e.g. for social media."
+msgstr ""
+
+#: .\judge\models\contest.py:142 .\judge\models\contest.py:230
+#: .\judge\models\contest.py:265
+msgid "contest"
+msgstr ""
+
+#: .\judge\models\contest.py:143
+msgid "contests"
+msgstr ""
+
+#: .\judge\models\contest.py:147
+msgid "associated contest"
+msgstr ""
+
+#: .\judge\models\contest.py:148 .\judge\models\contest.py:264
+#: .\judge\models\profile.py:177
+msgid "user"
+msgstr ""
+
+#: .\judge\models\contest.py:150
+msgid "score"
+msgstr ""
+
+#: .\judge\models\contest.py:151
+msgid "cumulative time"
+msgstr ""
+
+#: .\judge\models\contest.py:152
+msgid "virtual participation id"
+msgstr ""
+
+#: .\judge\models\contest.py:153
+msgid "0 means non-virtual, otherwise the n-th virtual participation"
+msgstr ""
+
+#: .\judge\models\contest.py:216
+#, python-format
+msgid "%s spectating in %s"
+msgstr ""
+
+#: .\judge\models\contest.py:218
+#, python-format
+msgid "%s in %s, v%d"
+msgstr ""
+
+#: .\judge\models\contest.py:219
+#, python-format
+msgid "%s in %s"
+msgstr ""
+
+#: .\judge\models\contest.py:222
+msgid "contest participation"
+msgstr ""
+
+#: .\judge\models\contest.py:223
+msgid "contest participations"
+msgstr ""
+
+#: .\judge\models\contest.py:229 .\judge\models\contest.py:249
+#: .\judge\models\problem.py:303 .\judge\models\problem.py:308
+#: .\judge\models\problem.py:326 .\judge\models\problem_data.py:34
+msgid "problem"
+msgstr ""
+
+#: .\judge\models\contest.py:231 .\judge\models\contest.py:253
+#: .\judge\models\problem.py:112 .\templates\user\user-problems.jade:185
+msgid "points"
+msgstr ""
+
+#: .\judge\models\contest.py:232
+msgid "partial"
+msgstr ""
+
+#: .\judge\models\contest.py:233 .\judge\models\contest.py:254
+msgid "is pretested"
+msgstr ""
+
+#: .\judge\models\contest.py:234 .\judge\models\interface.py:43
+msgid "order"
+msgstr ""
+
+#: .\judge\models\contest.py:235
+msgid "output prefix length override"
+msgstr ""
+
+#: .\judge\models\contest.py:236
+msgid "Maximum number of submissions for this problem, or 0 for no limit."
+msgstr ""
+
+#: .\judge\models\contest.py:238
+msgid "Why include a problem you can't submit to?"
+msgstr ""
+
+#: .\judge\models\contest.py:243
+msgid "contest problem"
+msgstr ""
+
+#: .\judge\models\contest.py:244
+msgid "contest problems"
+msgstr ""
+
+#: .\judge\models\contest.py:248 .\judge\models\submission.py:148
+msgid "submission"
+msgstr ""
+
+#: .\judge\models\contest.py:251 .\judge\models\contest.py:266
+msgid "participation"
+msgstr ""
+
+#: .\judge\models\contest.py:255
+msgid "Whether this submission was ran only on pretests."
+msgstr ""
+
+#: .\judge\models\contest.py:259
+msgid "contest submission"
+msgstr ""
+
+#: .\judge\models\contest.py:260
+msgid "contest submissions"
+msgstr ""
+
+#: .\judge\models\contest.py:267
+msgid "rank"
+msgstr ""
+
+#: .\judge\models\contest.py:268
+msgid "rating"
+msgstr ""
+
+#: .\judge\models\contest.py:269
+msgid "volatility"
+msgstr ""
+
+#: .\judge\models\contest.py:270
+msgid "last rated"
+msgstr ""
+
+#: .\judge\models\contest.py:274
+msgid "contest rating"
+msgstr ""
+
+#: .\judge\models\contest.py:275
+msgid "contest ratings"
+msgstr ""
+
+#: .\judge\models\interface.py:24
+msgid "configuration item"
+msgstr ""
+
+#: .\judge\models\interface.py:25
+msgid "miscellaneous configuration"
+msgstr ""
+
+#: .\judge\models\interface.py:37
+msgid "navigation item"
+msgstr ""
+
+#: .\judge\models\interface.py:38
+msgid "navigation bar"
+msgstr ""
+
+#: .\judge\models\interface.py:44 .\judge\models\profile.py:22
+msgid "identifier"
+msgstr ""
+
+#: .\judge\models\interface.py:45
+msgid "label"
+msgstr ""
+
+#: .\judge\models\interface.py:47
+msgid "highlight regex"
+msgstr ""
+
+#: .\judge\models\interface.py:48
+msgid "parent item"
+msgstr ""
+
+#: .\judge\models\interface.py:65
+msgid "post title"
+msgstr ""
+
+#: .\judge\models\interface.py:66 .\judge\models\problem.py:342
+msgid "authors"
+msgstr ""
+
+#: .\judge\models\interface.py:67
+msgid "slug"
+msgstr ""
+
+#: .\judge\models\interface.py:68 .\judge\models\problem.py:340
+msgid "public visibility"
+msgstr ""
+
+#: .\judge\models\interface.py:69
+msgid "sticky"
+msgstr ""
+
+#: .\judge\models\interface.py:70
+msgid "publish after"
+msgstr ""
+
+#: .\judge\models\interface.py:71
+msgid "post content"
+msgstr ""
+
+#: .\judge\models\interface.py:72
+msgid "post summary"
+msgstr ""
+
+#: .\judge\models\interface.py:73
+msgid "openGraph image"
+msgstr ""
+
+#: .\judge\models\interface.py:90
+msgid "Edit all posts"
+msgstr ""
+
+#: .\judge\models\interface.py:92
+msgid "blog post"
+msgstr ""
+
+#: .\judge\models\interface.py:93
+msgid "blog posts"
+msgstr ""
+
+#: .\judge\models\message.py:10
+msgid "message title"
+msgstr ""
+
+#: .\judge\models\message.py:11 .\judge\models\ticket.py:27
+msgid "message body"
+msgstr ""
+
+#: .\judge\models\message.py:12
+msgid "sender"
+msgstr ""
+
+#: .\judge\models\message.py:13
+msgid "target"
+msgstr ""
+
+#: .\judge\models\message.py:14
+msgid "message timestamp"
+msgstr ""
+
+#: .\judge\models\message.py:15
+msgid "read"
+msgstr ""
+
+#: .\judge\models\message.py:19
+msgid "messages in the thread"
+msgstr ""
+
+#: .\judge\models\problem.py:26
+msgid "problem category ID"
+msgstr ""
+
+#: .\judge\models\problem.py:27
+msgid "problem category name"
+msgstr ""
+
+#: .\judge\models\problem.py:34
+msgid "problem type"
+msgstr ""
+
+#: .\judge\models\problem.py:35 .\judge\models\problem.py:107
+msgid "problem types"
+msgstr ""
+
+#: .\judge\models\problem.py:39
+msgid "problem group ID"
+msgstr ""
+
+#: .\judge\models\problem.py:40
+msgid "problem group name"
+msgstr ""
+
+#: .\judge\models\problem.py:47 .\judge\models\problem.py:108
+msgid "problem group"
+msgstr ""
+
+#: .\judge\models\problem.py:48
+msgid "problem groups"
+msgstr ""
+
+#: .\judge\models\problem.py:52
+msgid "key"
+msgstr ""
+
+#: .\judge\models\problem.py:54
+msgid "link"
+msgstr ""
+
+#: .\judge\models\problem.py:55
+msgid "full name"
+msgstr ""
+
+#: .\judge\models\problem.py:56 .\judge\models\profile.py:26
+#: .\judge\models\runtime.py:20
+msgid "short name"
+msgstr ""
+
+#: .\judge\models\problem.py:57
+msgid "Displayed on pages under this license"
+msgstr ""
+
+#: .\judge\models\problem.py:58
+msgid "icon"
+msgstr ""
+
+#: .\judge\models\problem.py:58
+msgid "URL to the icon"
+msgstr ""
+
+#: .\judge\models\problem.py:59
+msgid "license text"
+msgstr ""
+
+#: .\judge\models\problem.py:68
+msgid "license"
+msgstr ""
+
+#: .\judge\models\problem.py:69
+msgid "licenses"
+msgstr ""
+
+#: .\judge\models\problem.py:96
+msgid "problem code"
+msgstr ""
+
+#: .\judge\models\problem.py:97
+msgid "Problem code must be ^[a-z0-9]+$"
+msgstr ""
+
+#: .\judge\models\problem.py:98
+msgid "problem name"
+msgstr ""
+
+#: .\judge\models\problem.py:99
+msgid "problem body"
+msgstr ""
+
+#: .\judge\models\problem.py:100
+msgid "creators"
+msgstr ""
+
+#: .\judge\models\problem.py:101
+msgid "curators"
+msgstr ""
+
+#: .\judge\models\problem.py:102
+msgid "These users will be able to edit a problem, but not be publicly shown as an author."
+msgstr ""
+
+#: .\judge\models\problem.py:104
+msgid "testers"
+msgstr ""
+
+#: .\judge\models\problem.py:106
+msgid "These users will be able to view a private problem, but not edit it."
+msgstr ""
+
+#: .\judge\models\problem.py:109
+msgid "The time limit for this problem, in seconds. Fractional seconds (e.g. 1.5) are supported."
+msgstr ""
+
+#: .\judge\models\problem.py:110 .\judge\models\problem.py:329
+msgid "memory limit"
+msgstr ""
+
+#: .\judge\models\problem.py:110
+msgid "The memory limit for this problem, in kilobytes (e.g. 64mb = 65536 kilobytes)."
+msgstr ""
+
+#: .\judge\models\problem.py:113
+msgid "allows partial points"
+msgstr ""
+
+#: .\judge\models\problem.py:114
+msgid "allowed languages"
+msgstr ""
+
+#: .\judge\models\problem.py:116
+msgid "manually managed"
+msgstr ""
+
+#: .\judge\models\problem.py:117
+msgid "Whether judges should be allowed to manage data or not"
+msgstr ""
+
+#: .\judge\models\problem.py:118
+msgid "date of publishing"
+msgstr ""
+
+#: .\judge\models\problem.py:119
+msgid "Doesn't have magic ability to auto-publish due to backward compatibility"
+msgstr ""
+
+#: .\judge\models\problem.py:120
+msgid "personae non gratae"
+msgstr ""
+
+#: .\judge\models\problem.py:121
+msgid "Bans the selected users from submitting to this problem"
+msgstr ""
+
+#: .\judge\models\problem.py:124
+msgid "problem summary"
+msgstr ""
+
+#: .\judge\models\problem.py:126
+msgid "amount of users"
+msgstr ""
+
+#: .\judge\models\problem.py:127
+msgid "The amount of users on the best solutions page."
+msgstr ""
+
+#: .\judge\models\problem.py:128
+msgid "rate of AC submissions"
+msgstr ""
+
+#: .\judge\models\problem.py:309 .\judge\models\problem.py:327
+#: .\judge\models\runtime.py:96
+msgid "language"
+msgstr ""
+
+#: .\judge\models\problem.py:310
+msgid "translated name"
+msgstr ""
+
+#: .\judge\models\problem.py:311
+msgid "translated description"
+msgstr ""
+
+#: .\judge\models\problem.py:315
+msgid "problem translation"
+msgstr ""
+
+#: .\judge\models\problem.py:316
+msgid "problem translations"
+msgstr ""
+
+#: .\judge\models\problem.py:320
+msgid "clarified problem"
+msgstr ""
+
+#: .\judge\models\problem.py:321
+msgid "clarification body"
+msgstr ""
+
+#: .\judge\models\problem.py:322
+msgid "clarification timestamp"
+msgstr ""
+
+#: .\judge\models\problem.py:333
+msgid "language-specific resource limit"
+msgstr ""
+
+#: .\judge\models\problem.py:334
+msgid "language-specific resource limits"
+msgstr ""
+
+#: .\judge\models\problem.py:338
+msgid "associated problem"
+msgstr ""
+
+#: .\judge\models\problem.py:341
+msgid "publish date"
+msgstr ""
+
+#: .\judge\models\problem.py:343
+msgid "editorial content"
+msgstr ""
+
+#: .\judge\models\problem.py:359
+msgid "solution"
+msgstr ""
+
+#: .\judge\models\problem.py:360
+msgid "solutions"
+msgstr ""
+
+#: .\judge\models\problem_data.py:23
+msgid "Standard"
+msgstr ""
+
+#: .\judge\models\problem_data.py:24
+msgid "Floats"
+msgstr ""
+
+#: .\judge\models\problem_data.py:25
+msgid "Floats (absolute)"
+msgstr ""
+
+#: .\judge\models\problem_data.py:26
+msgid "Floats (relative)"
+msgstr ""
+
+#: .\judge\models\problem_data.py:27
+msgid "Non-trailing spaces"
+msgstr ""
+
+#: .\judge\models\problem_data.py:28
+msgid "Unordered"
+msgstr ""
+
+#: .\judge\models\problem_data.py:29
+msgid "Byte identical"
+msgstr ""
+
+#: .\judge\models\problem_data.py:35
+msgid "data zip file"
+msgstr ""
+
+#: .\judge\models\problem_data.py:37
+msgid "generator file"
+msgstr ""
+
+#: .\judge\models\problem_data.py:39 .\judge\models\problem_data.py:87
+msgid "output prefix length"
+msgstr ""
+
+#: .\judge\models\problem_data.py:40 .\judge\models\problem_data.py:88
+msgid "output limit length"
+msgstr ""
+
+#: .\judge\models\problem_data.py:41
+msgid "init.yml generation feedback"
+msgstr ""
+
+#: .\judge\models\problem_data.py:42 .\judge\models\problem_data.py:89
+msgid "checker"
+msgstr ""
+
+#: .\judge\models\problem_data.py:43 .\judge\models\problem_data.py:90
+msgid "checker arguments"
+msgstr ""
+
+#: .\judge\models\problem_data.py:44 .\judge\models\problem_data.py:91
+msgid "checker arguments as a JSON object"
+msgstr ""
+
+#: .\judge\models\problem_data.py:75
+msgid "problem data set"
+msgstr ""
+
+#: .\judge\models\problem_data.py:76
+msgid "case position"
+msgstr ""
+
+#: .\judge\models\problem_data.py:77
+msgid "case type"
+msgstr ""
+
+#: .\judge\models\problem_data.py:78
+msgid "Normal case"
+msgstr ""
+
+#: .\judge\models\problem_data.py:79
+msgid "Batch start"
+msgstr ""
+
+#: .\judge\models\problem_data.py:80
+msgid "Batch end"
+msgstr ""
+
+#: .\judge\models\problem_data.py:82
+msgid "input file name"
+msgstr ""
+
+#: .\judge\models\problem_data.py:83
+msgid "output file name"
+msgstr ""
+
+#: .\judge\models\problem_data.py:84
+msgid "generator arguments"
+msgstr ""
+
+#: .\judge\models\problem_data.py:85
+msgid "point value"
+msgstr ""
+
+#: .\judge\models\problem_data.py:86
+msgid "case is pretest?"
+msgstr ""
+
+#: .\judge\models\profile.py:21
+msgid "organization title"
+msgstr ""
+
+#: .\judge\models\profile.py:23
+msgid "Organization name shows in URL"
+msgstr ""
+
+#: .\judge\models\profile.py:27
+msgid "Displayed beside user name during contests"
+msgstr ""
+
+#: .\judge\models\profile.py:28
+msgid "organization description"
+msgstr ""
+
+#: .\judge\models\profile.py:29
+msgid "registrant"
+msgstr ""
+
+#: .\judge\models\profile.py:31
+msgid "User who registered this organization"
+msgstr ""
+
+#: .\judge\models\profile.py:32
+msgid "administrators"
+msgstr ""
+
+#: .\judge\models\profile.py:33
+msgid "Those who can edit this organization"
+msgstr ""
+
+#: .\judge\models\profile.py:34
+msgid "creation date"
+msgstr ""
+
+#: .\judge\models\profile.py:35
+msgid "is open organization?"
+msgstr ""
+
+#: .\judge\models\profile.py:36
+msgid "Allow joining organization"
+msgstr ""
+
+#: .\judge\models\profile.py:37
+msgid "maximum size"
+msgstr ""
+
+#: .\judge\models\profile.py:38
+msgid "Maximum amount of users in this organization, only applicable to private organizations"
+msgstr ""
+
+#: .\judge\models\profile.py:40
+msgid "Student access code"
+msgstr ""
+
+#: .\judge\models\profile.py:41
+msgid "access code"
+msgstr ""
+
+#: .\judge\models\profile.py:67 .\judge\models\profile.py:84
+#: .\judge\models\profile.py:178
+msgid "organization"
+msgstr ""
+
+#: .\judge\models\profile.py:72
+msgid "user associated"
+msgstr ""
+
+#: .\judge\models\profile.py:73
+msgid "display name"
+msgstr ""
+
+#: .\judge\models\profile.py:74
+msgid "self-description"
+msgstr ""
+
+#: .\judge\models\profile.py:75
+msgid "location"
+msgstr ""
+
+#: .\judge\models\profile.py:77
+msgid "preferred language"
+msgstr ""
+
+#: .\judge\models\profile.py:82
+msgid "last access time"
+msgstr ""
+
+#: .\judge\models\profile.py:83
+msgid "last IP"
+msgstr ""
+
+#: .\judge\models\profile.py:86
+msgid "display rank"
+msgstr ""
+
+#: .\judge\models\profile.py:88
+msgid "comment mute"
+msgstr ""
+
+#: .\judge\models\profile.py:88
+msgid "Some users are at their best when silent."
+msgstr ""
+
+#: .\judge\models\profile.py:91
+msgid "user script"
+msgstr ""
+
+#: .\judge\models\profile.py:92
+msgid "User-defined JavaScript for site customization."
+msgstr ""
+
+#: .\judge\models\profile.py:93
+msgid "current contest"
+msgstr ""
+
+#: .\judge\models\profile.py:95
+msgid "math engine"
+msgstr ""
+
+#: .\judge\models\profile.py:97
+msgid "the rendering engine used to render math"
+msgstr ""
+
+#: .\judge\models\profile.py:134
+#, python-format
+msgctxt "user display name"
+msgid "%(username)s (%(display)s)"
+msgstr ""
+
+#: .\judge\models\profile.py:172
+msgid "user profile"
+msgstr ""
+
+#: .\judge\models\profile.py:173
+msgid "user profiles"
+msgstr ""
+
+#: .\judge\models\profile.py:179
+msgid "request time"
+msgstr ""
+
+#: .\judge\models\profile.py:180
+msgid "state"
+msgstr ""
+
+#: .\judge\models\profile.py:185
+msgid "reason"
+msgstr ""
+
+#: .\judge\models\profile.py:188
+msgid "organization join request"
+msgstr ""
+
+#: .\judge\models\profile.py:189
+msgid "organization join requests"
+msgstr ""
+
+#: .\judge\models\runtime.py:15
+msgid "short identifier"
+msgstr ""
+
+#: .\judge\models\runtime.py:16
+msgid "The identifier for this language; the same as its executor id for judges."
+msgstr ""
+
+#: .\judge\models\runtime.py:18
+msgid "long name"
+msgstr ""
+
+#: .\judge\models\runtime.py:19
+msgid "Longer name for the language, e.g. \"Python 2\" or \"C++11\"."
+msgstr ""
+
+#: .\judge\models\runtime.py:21
+msgid "More readable, but short, name to display publicly; e.g. \"PY2\" or \"C++11\". If left blank, it will default to the short identifier."
+msgstr ""
+
+#: .\judge\models\runtime.py:25
+msgid "common name"
+msgstr ""
+
+#: .\judge\models\runtime.py:26
+msgid "Common name for the language. For example, the common name for C++03, C++11, and C++14 would be \"C++\""
+msgstr ""
+
+#: .\judge\models\runtime.py:28
+msgid "ace mode name"
+msgstr ""
+
+#: .\judge\models\runtime.py:29
+msgid "Language ID for Ace.js editor highlighting, appended to \"mode-\" to determine the Ace JavaScript file to use, e.g., \"python\"."
+msgstr ""
+
+#: .\judge\models\runtime.py:31
+msgid "pygments name"
+msgstr ""
+
+#: .\judge\models\runtime.py:32
+msgid "Language ID for Pygments highlighting in source windows."
+msgstr ""
+
+#: .\judge\models\runtime.py:33
+msgid "code template"
+msgstr ""
+
+#: .\judge\models\runtime.py:34
+msgid "Code template to display in submission editor."
+msgstr ""
+
+#: .\judge\models\runtime.py:35
+msgid "runtime info override"
+msgstr ""
+
+#: .\judge\models\runtime.py:36
+msgid "Do not set this unless you know what you're doing! It will override the usually more specific, judge-provided runtime info!"
+msgstr ""
+
+#: .\judge\models\runtime.py:38
+msgid "language description"
+msgstr ""
+
+#: .\judge\models\runtime.py:39
+msgid "Use field this to inform users of quirks with your environment, additional restrictions, etc."
+msgstr ""
+
+#: .\judge\models\runtime.py:41
+msgid "extension"
+msgstr ""
+
+#: .\judge\models\runtime.py:42
+msgid "The extension of source files, e.g., \"py\" or \"cpp\"."
+msgstr ""
+
+#: .\judge\models\runtime.py:97
+msgid "languages"
+msgstr ""
+
+#: .\judge\models\runtime.py:101
+msgid "language to which this runtime belongs"
+msgstr ""
+
+#: .\judge\models\runtime.py:102
+msgid "judge on which this runtime exists"
+msgstr ""
+
+#: .\judge\models\runtime.py:103
+msgid "runtime name"
+msgstr ""
+
+#: .\judge\models\runtime.py:104
+msgid "runtime version"
+msgstr ""
+
+#: .\judge\models\runtime.py:105
+msgid "order in which to display this runtime"
+msgstr ""
+
+#: .\judge\models\runtime.py:109
+msgid "Server name, hostname-style"
+msgstr ""
+
+#: .\judge\models\runtime.py:110
+msgid "time of creation"
+msgstr ""
+
+#: .\judge\models\runtime.py:111
+msgid "A key to authenticated this judge"
+msgstr ""
+
+#: .\judge\models\runtime.py:112
+msgid "authentication key"
+msgstr ""
+
+#: .\judge\models\runtime.py:113
+msgid "judge online status"
+msgstr ""
+
+#: .\judge\models\runtime.py:114
+msgid "judge start time"
+msgstr ""
+
+#: .\judge\models\runtime.py:115
+msgid "response time"
+msgstr ""
+
+#: .\judge\models\runtime.py:116
+msgid "system load"
+msgstr ""
+
+#: .\judge\models\runtime.py:117
+msgid "Load for the last minute, divided by processors to be fair."
+msgstr ""
+
+#: .\judge\models\runtime.py:121 .\judge\models\runtime.py:156
+msgid "judges"
+msgstr ""
+
+#: .\judge\models\runtime.py:155
+msgid "judge"
+msgstr ""
+
+#: .\judge\models\submission.py:15 .\judge\models\submission.py:41
+#: .\judge\utils\problems.py:81
+msgid "Accepted"
+msgstr ""
+
+#: .\judge\models\submission.py:16 .\judge\models\submission.py:42
+#: .\judge\utils\problems.py:82
+msgid "Wrong Answer"
+msgstr ""
+
+#: .\judge\models\submission.py:17 .\judge\models\submission.py:44
+#: .\judge\utils\problems.py:84
+msgid "Time Limit Exceeded"
+msgstr ""
+
+#: .\judge\models\submission.py:18 .\judge\models\submission.py:45
+#: .\judge\utils\problems.py:85
+msgid "Memory Limit Exceeded"
+msgstr ""
+
+#: .\judge\models\submission.py:19 .\judge\models\submission.py:46
+msgid "Output Limit Exceeded"
+msgstr ""
+
+#: .\judge\models\submission.py:20 .\judge\models\submission.py:47
+msgid "Invalid Return"
+msgstr ""
+
+#: .\judge\models\submission.py:21 .\judge\models\submission.py:48
+msgid "Runtime Error"
+msgstr ""
+
+#: .\judge\models\submission.py:22 .\judge\models\submission.py:36
+#: .\judge\models\submission.py:49 .\judge\utils\problems.py:83
+msgid "Compile Error"
+msgstr ""
+
+#: .\judge\models\submission.py:23 .\judge\models\submission.py:35
+msgid "Internal Error"
+msgstr ""
+
+#: .\judge\models\submission.py:24
+msgid "Short circuit"
+msgstr ""
+
+#: .\judge\models\submission.py:25 .\judge\models\submission.py:37
+#: .\judge\models\submission.py:55
+msgid "Aborted"
+msgstr ""
+
+#: .\judge\models\submission.py:31 .\judge\models\submission.py:51
+msgid "Queued"
+msgstr ""
+
+#: .\judge\models\submission.py:32 .\judge\models\submission.py:52
+msgid "Processing"
+msgstr ""
+
+#: .\judge\models\submission.py:33 .\judge\models\submission.py:53
+msgid "Grading"
+msgstr ""
+
+#: .\judge\models\submission.py:34 .\judge\models\submission.py:54
+msgid "Completed"
+msgstr ""
+
+#: .\judge\models\submission.py:50
+msgid "Internal Error (judging server error)"
+msgstr ""
+
+#: .\judge\models\submission.py:60
+msgid "submission time"
+msgstr ""
+
+#: .\judge\models\submission.py:61 .\judge\models\submission.py:158
+msgid "execution time"
+msgstr ""
+
+#: .\judge\models\submission.py:62 .\judge\models\submission.py:159
+msgid "memory usage"
+msgstr ""
+
+#: .\judge\models\submission.py:63 .\judge\models\submission.py:160
+msgid "points granted"
+msgstr ""
+
+#: .\judge\models\submission.py:64
+msgid "submission language"
+msgstr ""
+
+#: .\judge\models\submission.py:65
+msgid "source code"
+msgstr ""
+
+#: .\judge\models\submission.py:66
+msgid "status"
+msgstr ""
+
+#: .\judge\models\submission.py:67
+msgid "result"
+msgstr ""
+
+#: .\judge\models\submission.py:69
+msgid "compile errors"
+msgstr ""
+
+#: .\judge\models\submission.py:71
+msgid "batched cases"
+msgstr ""
+
+#: .\judge\models\submission.py:72
+msgid "test case points"
+msgstr ""
+
+#: .\judge\models\submission.py:73
+msgid "test case total points"
+msgstr ""
+
+#: .\judge\models\submission.py:74
+msgid "judged on"
+msgstr ""
+
+#: .\judge\models\submission.py:76
+msgid "was rejudged by admin"
+msgstr ""
+
+#: .\judge\models\submission.py:77
+msgid "was ran on pretests only"
+msgstr ""
+
+#: .\judge\models\submission.py:149
+msgid "submissions"
+msgstr ""
+
+#: .\judge\models\submission.py:155
+msgid "associated submission"
+msgstr ""
+
+#: .\judge\models\submission.py:156
+msgid "test case ID"
+msgstr ""
+
+#: .\judge\models\submission.py:157
+msgid "status flag"
+msgstr ""
+
+#: .\judge\models\submission.py:161
+msgid "points possible"
+msgstr ""
+
+#: .\judge\models\submission.py:162
+msgid "batch number"
+msgstr ""
+
+#: .\judge\models\submission.py:163
+msgid "judging feedback"
+msgstr ""
+
+#: .\judge\models\submission.py:164
+msgid "program output"
+msgstr ""
+
+#: .\judge\models\submission.py:171
+msgid "submission test case"
+msgstr ""
+
+#: .\judge\models\submission.py:172
+msgid "submission test cases"
+msgstr ""
+
+#: .\judge\models\ticket.py:10
+msgid "ticket title"
+msgstr ""
+
+#: .\judge\models\ticket.py:11
+msgid "ticket creator"
+msgstr ""
+
+#: .\judge\models\ticket.py:12
+msgid "creation time"
+msgstr ""
+
+#: .\judge\models\ticket.py:13
+msgid "assignees"
+msgstr ""
+
+#: .\judge\models\ticket.py:14
+msgid "quick notes"
+msgstr ""
+
+#: .\judge\models\ticket.py:15
+msgid "Staff notes for this issue to aid in processing."
+msgstr ""
+
+#: .\judge\models\ticket.py:16
+msgid "linked item type"
+msgstr ""
+
+#: .\judge\models\ticket.py:18
+msgid "linked item ID"
+msgstr ""
+
+#: .\judge\models\ticket.py:20
+msgid "is ticket open?"
+msgstr ""
+
+#: .\judge\models\ticket.py:24
+msgid "ticket"
+msgstr ""
+
+#: .\judge\models\ticket.py:26
+msgid "poster"
+msgstr ""
+
+#: .\judge\models\ticket.py:28
+msgid "message time"
+msgstr ""
+
+#: .\judge\pdf_problems.py:111
+msgid "Page [page] of [topage]"
+msgstr ""
+
+#: .\judge\templatetags\timedelta.py:53
+msgctxt "time format with day"
+msgid "%d day %h:%m:%s"
+msgid_plural "%d days %h:%m:%s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\templatetags\timedelta.py:57
+msgctxt "time format without day"
+msgid "%h:%m:%s"
+msgstr ""
+
+#: .\judge\templatetags\timedelta.py:63
+msgctxt "time format no seconds with day"
+msgid "%d day %h:%m"
+msgid_plural "%d days %h:%m"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\templatetags\timedelta.py:65
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\templatetags\timedelta.py:67
+msgctxt "hours and minutes"
+msgid "%h:%m"
+msgstr ""
+
+#: .\judge\utils\problem_data.py:63
+msgid "Empty batches not allowed."
+msgstr ""
+
+#: .\judge\utils\problem_data.py:82
+#, python-format
+msgid "Points must be defined for non-batch case #%d."
+msgstr ""
+
+#: .\judge\utils\problem_data.py:87
+#, python-format
+msgid "Input file for case %d does not exist: %s"
+msgstr ""
+
+#: .\judge\utils\problem_data.py:90
+#, python-format
+msgid "Output file for case %d does not exist: %s"
+msgstr ""
+
+#: .\judge\utils\problem_data.py:115
+#, python-format
+msgid "Batch start case #%d requires points."
+msgstr ""
+
+#: .\judge\utils\problem_data.py:136
+#, python-format
+msgid "Attempt to end batch outside of one in case #%d"
+msgstr ""
+
+#: .\judge\utils\problem_data.py:154
+msgid "How did you corrupt the zip path?"
+msgstr ""
+
+#: .\judge\utils\problem_data.py:160
+msgid "How did you corrupt the generator path?"
+msgstr ""
+
+#: .\judge\utils\problems.py:76
+msgid "Can't pass both queryset and keyword filters"
+msgstr ""
+
+#: .\judge\utils\problems.py:86
+msgid "Other"
+msgstr ""
+
+#: .\judge\utils\problems.py:87
+msgid "Total"
+msgstr ""
+
+#: .\judge\views\blog.py:34
+#, python-format
+msgid "Page %d of Posts"
+msgstr ""
+
+#: .\judge\views\comment.py:27
+msgid "Messing around, are we?"
+msgstr ""
+
+#: .\judge\views\comment.py:59
+msgid "You already voted."
+msgstr ""
+
+#: .\judge\views\comment.py:116 .\judge\views\organization.py:279
+msgid "Edited from site"
+msgstr ""
+
+#: .\judge\views\comment.py:137
+msgid "Editing comment"
+msgstr ""
+
+#: .\judge\views\contests.py:47 .\judge\views\contests.py:177
+#: .\judge\views\contests.py:180 .\judge\views\contests.py:261
+msgid "No such contest"
+msgstr ""
+
+#: .\judge\views\contests.py:48 .\judge\views\contests.py:178
+#, python-format
+msgid "Could not find a contest with the key \"%s\"."
+msgstr ""
+
+#: .\judge\views\contests.py:71 .\judge\views\contests.py:275
+msgid "Contests"
+msgstr ""
+
+#: .\judge\views\contests.py:181
+msgid "Could not find such contest."
+msgstr ""
+
+#: .\judge\views\contests.py:184
+#, python-format
+msgid "Access to contest \"%s\" denied"
+msgstr ""
+
+#: .\judge\views\contests.py:210
+msgid "Contest not ongoing"
+msgstr ""
+
+#: .\judge\views\contests.py:211
+#, python-format
+msgid "\"%s\" is not currently ongoing."
+msgstr ""
+
+#: .\judge\views\contests.py:215
+msgid "Already in contest"
+msgstr ""
+
+#: .\judge\views\contests.py:216
+#, python-format
+msgid "You are already in a contest: \"%s\"."
+msgstr ""
+
+#: .\judge\views\contests.py:262
+#, python-format
+msgid "You are not in contest \"%s\"."
+msgstr ""
+
+#: .\judge\views\contests.py:282
+msgid "ContestCalender requires integer year and month"
+msgstr ""
+
+#: .\judge\views\contests.py:485
+#, python-format
+msgid "%s Rankings"
+msgstr ""
+
+#: .\judge\views\contests.py:536
+msgid "Live"
+msgstr ""
+
+#: .\judge\views\contests.py:544
+#, python-format
+msgid "Your participation in %s"
+msgstr ""
+
+#: .\judge\views\contests.py:545
+#, python-format
+msgid "%s's participation in %s"
+msgstr ""
+
+#: .\judge\views\contests.py:553 .\templates\contest\contest-tabs.jade:12
+msgid "Participation"
+msgstr ""
+
+#: .\judge\views\contests.py:578
+#, python-format
+msgid "Contest tag: %s"
+msgstr ""
+
+#: .\judge\views\error.py:14
+msgid "404 error"
+msgstr ""
+
+#: .\judge\views\error.py:15
+#, python-format
+msgid "Could not find page \"%s\""
+msgstr ""
+
+#: .\judge\views\error.py:21
+#, python-format
+msgid "no permission for %s"
+msgstr ""
+
+#: .\judge\views\error.py:27
+#, python-format
+msgid "corrupt page %s"
+msgstr ""
+
+#: .\judge\views\language.py:12 .\templates\status\judge-status-table.jade:8
+#: .\templates\status\status-tabs.jade:8
+msgid "Runtimes"
+msgstr ""
+
+#: .\judge\views\organization.py:43 .\judge\views\organization.py:46
+msgid "No such organization"
+msgstr ""
+
+#: .\judge\views\organization.py:44
+#, python-format
+msgid "Could not find an organization with the key \"%s\"."
+msgstr ""
+
+#: .\judge\views\organization.py:47
+msgid "Could not find such organization."
+msgstr ""
+
+#: .\judge\views\organization.py:62 .\judge\views\register.py:35
+#: .\templates\user\user-list-tabs.jade:8
+msgid "Organizations"
+msgstr ""
+
+#: .\judge\views\organization.py:80
+#, python-format
+msgid "%s Members"
+msgstr ""
+
+#: .\judge\views\organization.py:110 .\judge\views\organization.py:112
+msgid "Joining organization"
+msgstr ""
+
+#: .\judge\views\organization.py:110
+msgid "You are already in the organization."
+msgstr ""
+
+#: .\judge\views\organization.py:112
+msgid "This organization is not open."
+msgstr ""
+
+#: .\judge\views\organization.py:121
+msgid "Leaving organization"
+msgstr ""
+
+#: .\judge\views\organization.py:121
+#, python-format
+msgid "You are not in \"%s\"."
+msgstr ""
+
+#: .\judge\views\organization.py:145
+#, python-format
+msgid "Request to join %s"
+msgstr ""
+
+#: .\judge\views\organization.py:161
+msgid "Join request detail"
+msgstr ""
+
+#: .\judge\views\organization.py:190
+#, python-format
+msgid "Managing join requests for %s"
+msgstr ""
+
+#: .\judge\views\organization.py:221
+#, python-format
+msgid "Your organization can only receive %d more members. You cannot approve %d users."
+msgstr ""
+
+#: .\judge\views\organization.py:233
+#, python-format
+msgid "Approved %d user."
+msgid_plural "Approved %d users."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\views\organization.py:234
+#, python-format
+msgid "Rejected %d user."
+msgid_plural "Rejected %d users."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\judge\views\organization.py:264
+#, python-format
+msgid "Editing %s"
+msgstr ""
+
+#: .\judge\views\organization.py:287 .\judge\views\organization.py:295
+msgid "Can't edit organization"
+msgstr ""
+
+#: .\judge\views\organization.py:288
+msgid "You are not allowed to edit this organization."
+msgstr ""
+
+#: .\judge\views\organization.py:296
+msgid "You are not allowed to kick people from this organization."
+msgstr ""
+
+#: .\judge\views\organization.py:301 .\judge\views\organization.py:305
+msgid "Can't kick user"
+msgstr ""
+
+#: .\judge\views\organization.py:302
+msgid "The user you are trying to kick does not exist!"
+msgstr ""
+
+#: .\judge\views\organization.py:306
+#, python-format
+msgid "The user you are trying to kick is not in organization: %s."
+msgstr ""
+
+#: .\judge\views\problem.py:69
+msgid "No such problem"
+msgstr ""
+
+#: .\judge\views\problem.py:70
+#, python-format
+msgid "Could not find a problem with the code \"%s\"."
+msgstr ""
+
+#: .\judge\views\problem.py:102
+#, python-brace-format
+msgid "Editorial for {0}"
+msgstr ""
+
+#: .\judge\views\problem.py:105
+#, python-brace-format
+msgid "Editorial for <a href=\"{1}\">{0}</a>"
+msgstr ""
+
+#: .\judge\views\problem.py:264 .\templates\contest\contest.jade:26
+#: .\templates\user\user-tabs.jade:8 .\templates\user\users-table.jade:7
+#: .\templates\user\users-table.jade:9
+msgid "Problems"
+msgstr ""
+
+#: .\judge\views\problem.py:499
+msgid "Banned from submitting"
+msgstr ""
+
+#: .\judge\views\problem.py:500
+msgid "You have been declared persona non grata for this problem. You are permanently barred from submitting this problem."
+msgstr ""
+
+#: .\judge\views\problem.py:511
+msgid "Too many submissions"
+msgstr ""
+
+#: .\judge\views\problem.py:512
+msgid "You have exceeded the submission limit for this problem."
+msgstr ""
+
+#: .\judge\views\problem.py:567 .\judge\views\problem.py:570
+#, python-format
+msgid "Submit to %(problem)s"
+msgstr ""
+
+#: .\judge\views\problem_data.py:36
+msgid "Checker arguments must be a JSON object"
+msgstr ""
+
+#: .\judge\views\problem_data.py:38
+msgid "Checker arguments is invalid JSON"
+msgstr ""
+
+#: .\judge\views\problem_data.py:45
+msgid "Your zip file is invalid!"
+msgstr ""
+
+#: .\judge\views\problem_data.py:92 .\judge\views\problem_data.py:95
+#, python-format
+msgid "Editing data for %s"
+msgstr ""
+
+#: .\judge\views\problem_data.py:198 .\judge\views\problem_data.py:199
+#, python-format
+msgid "Generated init.yml for %s"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:59
+#, python-format
+msgid "Best solutions for %s"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:62
+#, python-brace-format
+msgid "Best solutions for <a href=\"{1}\">{0}</a>"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:72
+#, python-format
+msgid "Best solutions for %(problem)s in %(contest)s"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:74
+#, python-format
+msgid "Best solutions for problem %(number)s in %(contest)s"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:79
+#, python-brace-format
+msgid "Best solutions for <a href=\"{1}\">{0}</a> in <a href=\"{3}\">{2}</a>"
+msgstr ""
+
+#: .\judge\views\ranked_submission.py:82
+#, python-brace-format
+msgid "Best solutions for problem {0} in <a href=\"{2}\">{1}</a>"
+msgstr ""
+
+#: .\judge\views\register.py:27
+msgid "A username must contain letters, numbers, or underscores"
+msgstr ""
+
+#: .\judge\views\register.py:29
+msgid "Real name (optional)"
+msgstr ""
+
+#: .\judge\views\register.py:32 .\templates\user\edit-profile.jade:82
+msgid "Preferred language"
+msgstr ""
+
+#: .\judge\views\register.py:39
+msgid "Subscribe to newsletter?"
+msgstr ""
+
+#: .\judge\views\register.py:46
+#, python-format
+msgid "The email address \"%s\" is already taken. Only one registration is allowed per address."
+msgstr ""
+
+#: .\judge\views\register.py:52
+msgid "Your email provider is not allowed due to history of abuse. Please use a reputable email provider."
+msgstr ""
+
+#: .\judge\views\register.py:58 .\judge\views\register.py:97
+msgid "Registration"
+msgstr ""
+
+#: .\judge\views\register.py:108
+msgid "Authentication failure"
+msgstr ""
+
+#: .\judge\views\stats.py:94
+msgid "Language statistics"
+msgstr ""
+
+#: .\judge\views\status.py:19 .\templates\submission\list.jade:182
+msgid "Status"
+msgstr ""
+
+#: .\judge\views\submission.py:54 .\judge\views\submission.py:61
+#, python-format
+msgid "Submission of %(problem)s by %(user)s"
+msgstr ""
+
+#: .\judge\views\submission.py:130 .\judge\views\submission.py:131
+#: .\templates\problem\problem.jade:51
+msgid "All submissions"
+msgstr ""
+
+#: .\judge\views\submission.py:252
+msgid "All my submissions"
+msgstr ""
+
+#: .\judge\views\submission.py:253
+#, python-format
+msgid "All submissions by %s"
+msgstr ""
+
+#: .\judge\views\submission.py:283
+#, python-format
+msgid "All submissions for %s"
+msgstr ""
+
+#: .\judge\views\submission.py:304
+msgid "Must pass a problem"
+msgstr ""
+
+#: .\judge\views\submission.py:335
+#, python-format
+msgid "My submissions for %(problem)s"
+msgstr ""
+
+#: .\judge\views\submission.py:336
+#, python-format
+msgid "%(user)s's submissions for %(problem)s"
+msgstr ""
+
+#: .\judge\views\submission.py:412
+msgid "Must pass a contest"
+msgstr ""
+
+#: .\judge\views\submission.py:431
+#, python-brace-format
+msgid "<a href=\"{1}\">{0}</a>'s submissions for <a href=\"{3}\">{2}</a> in <a href=\"{5}\">{4}</a>"
+msgstr ""
+
+#: .\judge\views\submission.py:436
+#, python-brace-format
+msgid "<a href=\"{1}\">{0}</a>'s submissions for problem {2} in <a href=\"{4}\">{3}</a>"
+msgstr ""
+
+#: .\judge\views\ticket.py:40 .\judge\views\ticket.py:45
+msgid "Ticket title"
+msgstr ""
+
+#: .\judge\views\ticket.py:46
+msgid "Issue description"
+msgstr ""
+
+#: .\judge\views\ticket.py:92 .\judge\views\ticket.py:95
+#, python-format
+msgid "New ticket for %s"
+msgstr ""
+
+#: .\judge\views\ticket.py:141
+#, python-format
+msgid "%(title)s - Ticket %(id)d"
+msgstr ""
+
+#: .\judge\views\ticket.py:248
+#, python-format
+msgid "Tickets - Page %(number)d of %(total)d"
+msgstr ""
+
+#: .\judge\views\ticket.py:297
+#, python-format
+msgid "New Ticket: %s"
+msgstr ""
+
+#: .\judge\views\ticket.py:298
+#, python-format
+msgid "#%(id)d, assigned to: %(users)s"
+msgstr ""
+
+#: .\judge\views\ticket.py:299
+msgid ", "
+msgstr ""
+
+#: .\judge\views\ticket.py:300
+msgid "no one"
+msgstr ""
+
+#: .\judge\views\user.py:71
+msgid "No such user"
+msgstr ""
+
+#: .\judge\views\user.py:71
+#, python-format
+msgid "No user handle \"%s\"."
+msgstr ""
+
+#: .\judge\views\user.py:75
+msgid "My account"
+msgstr ""
+
+#: .\judge\views\user.py:76
+#, python-format
+msgid "User %s"
+msgstr ""
+
+#: .\judge\views\user.py:169 .\templates\contest\list.jade:50
+#: .\templates\contest\list.jade:51 .\templates\contest\list.jade:75
+#: .\templates\contest\list.jade:76 .\templates\contest\list.jade:98
+#: .\templates\contest\list.jade:99
+msgid "M j, Y, G:i"
+msgstr ""
+
+#: .\judge\views\user.py:201
+msgid "Updated on site"
+msgstr ""
+
+#: .\judge\views\user.py:233 .\templates\admin\auth\user\change_form.html:14
+#: .\templates\admin\auth\user\change_form.html:17 .\templates\base.jade:158
+#: .\templates\user\user-tabs.jade:14
+msgid "Edit profile"
+msgstr ""
+
+#: .\judge\views\user.py:242 .\templates\user\user-list-tabs.jade:6
+msgid "Leaderboard"
+msgstr ""
+
+#: .\judge\views\widgets.py:53 .\judge\views\widgets.py:64
+#, python-format
+msgid "Invalid upstream data: %s"
+msgstr ""
+
+#: .\judge\views\widgets.py:74
+msgid "Bad latitude or longitude"
+msgstr ""
+
+#: .\templates\admin\judge\contest\change_form.html:14
+#: .\templates\admin\judge\contest\change_form.html:17
+msgid "Rate"
+msgstr ""
+
+#: .\templates\admin\judge\contest\change_list.html:9
+msgid "Rate all ratable contests"
+msgstr ""
+
+#: .\templates\admin\judge\profile\change_form.html:14
+#: .\templates\admin\judge\profile\change_form.html:17
+msgid "Edit user"
+msgstr ""
+
+#: .\templates\admin\judge\submission\change_form.html:14
+#: .\templates\admin\judge\submission\change_form.html:17
+#: .\templates\submission\source.jade:36 .\templates\submission\status.jade:151
+msgid "Rejudge"
+msgstr ""
+
+#: .\templates\base.jade:154
+#, python-format
+msgid "Hello, <b>%(username)s</b>."
+msgstr ""
+
+#: .\templates\base.jade:156 .\templates\comments\list.jade:18
+#: .\templates\contest\contest-list-tabs.jade:13
+#: .\templates\problem\problem-list-tabs.jade:8
+#: .\templates\submission\info-base.jade:2
+#: .\templates\submission\submission-list-tabs.jade:19
+msgid "Admin"
+msgstr ""
+
+#: .\templates\base.jade:164
+msgid "Log out"
+msgstr ""
+
+#: .\templates\base.jade:169
+msgid "Register"
+msgstr ""
+
+#: .\templates\base.jade:174
+msgid "spectating"
+msgstr ""
+
+#: .\templates\base.jade:182
+msgid "This site works best with JavaScript enabled."
+msgstr ""
+
+#: .\templates\blog\content.jade:2 .\templates\comments\list.jade:18
+#: .\templates\contest\contest-tabs.jade:15
+#: .\templates\contest\tag-title.jade:4 .\templates\flatpages\admin_link.jade:2
+#: .\templates\flatpages\dmsolutions.jade:3 .\templates\license.jade:3
+#: .\templates\problem\data.jade:396 .\templates\problem\editorial.jade:2
+#: .\templates\solution.jade:4
+msgid "Edit"
+msgstr ""
+
+#: .\templates\blog\content.jade:6 .\templates\contest\list.jade:49
+msgid "N j, Y, G:i"
+msgstr ""
+
+#: .\templates\blog\dashboard.jade:11 .\templates\blog\list.jade:94
+msgid "N j, Y, g:i"
+msgstr ""
+
+#: .\templates\blog\dashboard.jade:11 .\templates\blog\list.jade:94
+#: .\templates\blog\list.jade:109 .\templates\comments\list.jade:17
+#: .\templates\problem\problem.jade:112 .\templates\submission\row.jade:13
+#: .\templates\user\pp-row.jade:11
+#, python-format
+msgid "on %(time)s"
+msgstr ""
+
+#: .\templates\blog\list.jade:80
+msgid "Blog"
+msgstr ""
+
+#: .\templates\blog\list.jade:82
+msgid "Events"
+msgstr ""
+
+#: .\templates\blog\list.jade:88
+msgid "News"
+msgstr ""
+
+#: .\templates\blog\list.jade:93
+msgid "posted"
+msgstr ""
+
+#: .\templates\blog\list.jade:105 .\templates\problem\problem.jade:108
+msgid "Clarifications"
+msgstr ""
+
+#: .\templates\blog\list.jade:109
+#: .\templates\organization\requests\detail.jade:19
+#: .\templates\problem\problem.jade:112 .\templates\submission\info-base.jade:1
+#: .\templates\submission\row.jade:13
+msgid "N j, Y, g:i a"
+msgstr ""
+
+#: .\templates\blog\list.jade:112 .\templates\problem\problem.jade:115
+msgid "No clarifications have been made at this time."
+msgstr ""
+
+#: .\templates\blog\list.jade:116
+msgid "Ongoing contests"
+msgstr ""
+
+#: .\templates\blog\list.jade:122 .\templates\contest\list.jade:48
+#, python-format
+msgid "Ends in %(countdown)s."
+msgstr ""
+
+#: .\templates\blog\list.jade:129
+msgid "Upcoming contests"
+msgstr ""
+
+#: .\templates\blog\list.jade:135 .\templates\contest\contest.jade:12
+#: .\templates\contest\list.jade:74
+#, python-format
+msgid "Starting in %(countdown)s."
+msgstr ""
+
+#: .\templates\blog\list.jade:141
+msgid "Comment stream"
+msgstr ""
+
+#: .\templates\blog\list.jade:152
+msgid "New problems"
+msgstr ""
+
+#: .\templates\blog\list.jade:164
+msgid "My open tickets"
+msgstr ""
+
+#: .\templates\blog\list.jade:178
+msgid "New tickets"
+msgstr ""
+
+#: .\templates\comments\list.jade:3
+msgid "Comments"
+msgstr ""
+
+#: .\templates\comments\list.jade:10 .\templates\comments\list.jade:11
+msgid "Please login to vote"
+msgstr ""
+
+#: .\templates\comments\list.jade:16
+msgid "commented"
+msgstr ""
+
+#: .\templates\comments\list.jade:17 .\templates\user\pp-row.jade:11
+msgid "N j, Y"
+msgstr ""
+
+#: .\templates\comments\list.jade:17
+#, python-format
+msgid "edit %(edits)s"
+msgstr ""
+
+#: .\templates\comments\list.jade:18 .\templates\comments\media-js.jade:68
+msgid "edited"
+msgstr ""
+
+#: .\templates\comments\list.jade:18
+msgid "Link"
+msgstr ""
+
+#: .\templates\comments\list.jade:18
+msgid "Reply"
+msgstr ""
+
+#: .\templates\comments\list.jade:18
+msgid "Hide"
+msgstr ""
+
+#: .\templates\comments\list.jade:31
+msgid "There are no comments at the moment."
+msgstr ""
+
+#: .\templates\comments\list.jade:33
+msgid "New comment"
+msgstr ""
+
+#: .\templates\comments\list.jade:40
+msgid "Invalid comment body."
+msgstr ""
+
+#: .\templates\comments\list.jade:48
+msgid "Post!"
+msgstr ""
+
+#: .\templates\comments\media-js.jade:63
+#, python-brace-format
+msgid "edit {edits}"
+msgstr ""
+
+#: .\templates\comments\media-js.jade:66
+msgid "original"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:1
+msgid "F Y"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:1
+#, python-format
+msgid "Contests in %(month)s"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:5
+msgid "Sunday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:6
+msgid "Monday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:7
+msgid "Tuesday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:8
+msgid "Wednesday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:9
+msgid "Thursday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:10
+msgid "Friday"
+msgstr ""
+
+#: .\templates\contest\calendar.jade:11
+msgid "Saturday"
+msgstr ""
+
+#: .\templates\contest\contest-list-tabs.jade:5
+msgid "Prev"
+msgstr ""
+
+#: .\templates\contest\contest-list-tabs.jade:5
+msgid "Next"
+msgstr ""
+
+#: .\templates\contest\contest-list-tabs.jade:8
+#: .\templates\problem\problem-list-tabs.jade:6
+msgid "List"
+msgstr ""
+
+#: .\templates\contest\contest-list-tabs.jade:10
+msgid "Calendar"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:6
+msgid "Info"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:9
+msgid "Rankings"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:18
+#: .\templates\contest\contest-tabs.jade:23
+msgid "Leave contest"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:20 .\templates\contest\list.jade:106
+msgid "Virtual join"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:22
+msgid "Stop spectating"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:24
+msgid "Spectate contest"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:25
+#: .\templates\contest\contest-tabs.jade:26
+msgid "Join contest"
+msgstr ""
+
+#: .\templates\contest\contest-tabs.jade:27
+msgid "Login to participate"
+msgstr ""
+
+#: .\templates\contest\contest.jade:9
+#, python-format
+msgid "Spectating, contest ends in %(countdown)s."
+msgstr ""
+
+#: .\templates\contest\contest.jade:10
+#, python-format
+msgid "Participating virtually, %(countdown)s remaining."
+msgstr ""
+
+#: .\templates\contest\contest.jade:11
+msgid "Participating virtually."
+msgstr ""
+
+#: .\templates\contest\contest.jade:13
+msgid "Contest is over."
+msgstr ""
+
+#: .\templates\contest\contest.jade:14
+#, python-format
+msgid "Your time is up! Contest ends in %(countdown)s."
+msgstr ""
+
+#: .\templates\contest\contest.jade:15
+#, python-format
+msgid "You have %(countdown)s remaining."
+msgstr ""
+
+#: .\templates\contest\contest.jade:16
+#, python-format
+msgid "Contest ends in %(countdown)s."
+msgstr ""
+
+#: .\templates\contest\contest.jade:17 .\templates\contest\contest.jade:18
+msgid "F j, Y, G:i T"
+msgstr ""
+
+#: .\templates\contest\contest.jade:17
+#, python-format
+msgid "<b>%(time_limit)s</b> window between <b>%(start_time)s</b> and <b>%(end_time)s</b>"
+msgstr ""
+
+#: .\templates\contest\contest.jade:18
+#, python-format
+msgid "<b>%(length)s</b> long starting on <b>%(start_time)s</b>"
+msgstr ""
+
+#: .\templates\contest\contest.jade:33
+msgid "AC Rate"
+msgstr ""
+
+#: .\templates\contest\contest.jade:34 .\templates\contest\list.jade:41
+#: .\templates\contest\list.jade:90 .\templates\problem\list.jade:156
+#: .\templates\problem\list.jade:169
+msgid "Users"
+msgstr ""
+
+#: .\templates\contest\contest.jade:47
+msgid "Editorial"
+msgstr ""
+
+#: .\templates\contest\list.jade:12 .\templates\contest\media-js.jade:9
+msgid "Are you sure you want to join?"
+msgstr ""
+
+#: .\templates\contest\list.jade:13
+msgid "Joining a contest for the first time starts your timer, after which it becomes unstoppable."
+msgstr ""
+
+#: .\templates\contest\list.jade:36
+msgid "Ongoing Contests"
+msgstr ""
+
+#: .\templates\contest\list.jade:40 .\templates\contest\list.jade:68
+#: .\templates\contest\list.jade:89
+msgid "Contest"
+msgstr ""
+
+#: .\templates\contest\list.jade:49
+msgid "Started at"
+msgstr ""
+
+#: .\templates\contest\list.jade:51 .\templates\contest\list.jade:76
+#: .\templates\contest\list.jade:99
+#, python-format
+msgid "%(time_limit)s window"
+msgstr ""
+
+#: .\templates\contest\list.jade:52 .\templates\contest\list.jade:77
+#: .\templates\contest\list.jade:100
+#, python-format
+msgid "%(window_length)s long"
+msgstr ""
+
+#: .\templates\contest\list.jade:58
+msgid "Spectate"
+msgstr ""
+
+#: .\templates\contest\list.jade:59
+msgid "Join"
+msgstr ""
+
+#: .\templates\contest\list.jade:64
+msgid "Upcoming Contests"
+msgstr ""
+
+#: .\templates\contest\list.jade:84
+msgid "There are no scheduled contests at this time."
+msgstr ""
+
+#: .\templates\contest\list.jade:85
+msgid "Past Contests"
+msgstr ""
+
+#: .\templates\contest\media-js.jade:4
+msgid "Are you sure you want to leave?"
+msgstr ""
+
+#: .\templates\contest\media-js.jade:5
+msgid "You cannot come back to a virtual participation. You will have to start a new one."
+msgstr ""
+
+#: .\templates\contest\media-js.jade:10
+msgid "Joining a contest starts your timer, after which it becomes unstoppable."
+msgstr ""
+
+#: .\templates\contest\private.jade:2
+msgid "Only the following organizations may access this contest:"
+msgstr ""
+
+#: .\templates\contest\ranking-table.jade:8
+msgid "Started"
+msgstr ""
+
+#: .\templates\contest\ranking-table.jade:10
+msgid "Participation ended."
+msgstr ""
+
+#: .\templates\contest\ranking.jade:235
+msgid "View user participation"
+msgstr ""
+
+#: .\templates\contest\ranking.jade:237
+msgid "Show organizations"
+msgstr ""
+
+#: .\templates\license.jade:5
+msgid "Source:"
+msgstr ""
+
+#: .\templates\messages\new.jade:5
+msgid "To:"
+msgstr ""
+
+#: .\templates\messages\new.jade:10
+msgid "Send!"
+msgstr ""
+
+#: .\templates\newsletter\common.html:7
+#: .\templates\newsletter\subscription_unsubscribe_activated.html:5
+#: .\templates\newsletter\subscription_unsubscribe_activated.html:8
+#: .\templates\newsletter\subscription_update_activated.html:5
+#: .\templates\newsletter\subscription_update_activated.html:8
+msgid "Newsletter"
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_activated.html:5
+#: .\templates\newsletter\subscription_unsubscribe_activated.html:8
+#: .\templates\newsletter\subscription_update_activated.html:5
+#: .\templates\newsletter\subscription_update_activated.html:8
+msgid "activate"
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_activated.html:10
+msgid "You have successfully been unsubscribed."
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_email_sent.html:5
+#: .\templates\newsletter\subscription_unsubscribe_email_sent.html:8
+#: .\templates\newsletter\subscription_unsubscribe_user.html:5
+#: .\templates\newsletter\subscription_unsubscribe_user.html:8
+msgid "Newsletter unsubscribe"
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_email_sent.html:10
+msgid "Your unsubscription request has successfully been received. An email has been sent to you with a link you need to follow in order to confirm your unsubscription."
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_user.html:20
+msgid "Do you want to unsubscribe from this newsletter?"
+msgstr ""
+
+#: .\templates\newsletter\subscription_unsubscribe_user.html:23
+msgid "Unsubscribe"
+msgstr ""
+
+#: .\templates\newsletter\subscription_update.html:5
+#: .\templates\newsletter\subscription_update.html:8
+#: .\templates\newsletter\subscription_update_email_sent.html:5
+#: .\templates\newsletter\subscription_update_email_sent.html:8
+msgid "Newsletter update"
+msgstr ""
+
+#: .\templates\newsletter\subscription_update.html:11
+msgid "Due to a technical error we were not able to submit your confirmation email. This could be because your email address is invalid."
+msgstr ""
+
+#: .\templates\newsletter\subscription_update.html:23
+msgid "Update subscription"
+msgstr ""
+
+#: .\templates\newsletter\subscription_update_activated.html:10
+msgid "Your subscription has successfully been updated."
+msgstr ""
+
+#: .\templates\newsletter\subscription_update_email_sent.html:10
+msgid "Your update request was successfully received and an activation email has been sent to you. In that email you will find a link which you need to follow in order to update your subscription."
+msgstr ""
+
+#: .\templates\organization\edit.jade:23
+#: .\templates\organization\requests\pending.jade:24
+#: .\templates\ticket\edit-notes.jade:3
+msgid "Update"
+msgstr ""
+
+#: .\templates\organization\home.jade:1
+msgid "Leave organization"
+msgstr ""
+
+#: .\templates\organization\home.jade:2
+msgid "Join organization"
+msgstr ""
+
+#: .\templates\organization\home.jade:3
+msgid "Request membership"
+msgstr ""
+
+#: .\templates\organization\home.jade:6
+msgid "Edit organization"
+msgstr ""
+
+#: .\templates\organization\home.jade:8
+msgid "View requests"
+msgstr ""
+
+#: .\templates\organization\home.jade:10
+msgid "Admin organization"
+msgstr ""
+
+#: .\templates\organization\home.jade:12
+msgid "View members"
+msgstr ""
+
+#: .\templates\organization\list.jade:11
+#: .\templates\status\language-list.jade:20 .\templates\ticket\list.jade:205
+msgid "ID"
+msgstr ""
+
+#: .\templates\organization\list.jade:12
+#: .\templates\status\language-list.jade:21
+msgid "Name"
+msgstr ""
+
+#: .\templates\organization\list.jade:13
+msgid "Members"
+msgstr ""
+
+#: .\templates\organization\new.jade:6 .\templates\ticket\new.jade:26
+msgid "Create"
+msgstr ""
+
+#: .\templates\organization\requests\detail.jade:8
+msgid "User:"
+msgstr ""
+
+#: .\templates\organization\requests\detail.jade:13
+msgid "Organization:"
+msgstr ""
+
+#: .\templates\organization\requests\detail.jade:18
+msgid "Time:"
+msgstr ""
+
+#: .\templates\organization\requests\detail.jade:22
+msgid "Reason:"
+msgstr ""
+
+#: .\templates\organization\requests\log.jade:6
+#: .\templates\organization\requests\pending.jade:10
+msgid "State"
+msgstr ""
+
+#: .\templates\organization\requests\log.jade:7
+#: .\templates\organization\requests\pending.jade:11
+msgid "Reason"
+msgstr ""
+
+#: .\templates\organization\requests\log.jade:12
+#: .\templates\organization\requests\pending.jade:17
+msgid "N j, Y, H:i"
+msgstr ""
+
+#: .\templates\organization\requests\log.jade:18
+#: .\templates\organization\requests\pending.jade:26
+msgid "There are no requests to approve."
+msgstr ""
+
+#: .\templates\organization\requests\pending.jade:12
+#: .\templates\problem\data.jade:375
+msgid "Delete?"
+msgstr ""
+
+#: .\templates\organization\requests\request.jade:13
+msgid "Your reason for joining:"
+msgstr ""
+
+#: .\templates\organization\requests\request.jade:17
+msgid "Request"
+msgstr ""
+
+#: .\templates\organization\requests\tabs.jade:4
+msgid "Pending"
+msgstr ""
+
+#: .\templates\organization\requests\tabs.jade:6
+msgid "Log"
+msgstr ""
+
+#: .\templates\organization\requests\tabs.jade:8
+msgid "Approved"
+msgstr ""
+
+#: .\templates\organization\requests\tabs.jade:10
+msgid "Rejected"
+msgstr ""
+
+#: .\templates\organization\users-table.jade:5
+msgid "Kick"
+msgstr ""
+
+#: .\templates\problem\data.jade:336
+msgid "View YAML"
+msgstr ""
+
+#: .\templates\problem\data.jade:344
+msgid "Show columns:"
+msgstr ""
+
+#: .\templates\problem\data.jade:347 .\templates\problem\data.jade:371
+msgid "Output prefix"
+msgstr ""
+
+#: .\templates\problem\data.jade:351 .\templates\problem\data.jade:372
+msgid "Output limit"
+msgstr ""
+
+#: .\templates\problem\data.jade:355 .\templates\problem\data.jade:373
+msgid "Checker"
+msgstr ""
+
+#: .\templates\problem\data.jade:359 .\templates\problem\data.jade:374
+msgid "Generator args"
+msgstr ""
+
+#: .\templates\problem\data.jade:366
+msgid "Type"
+msgstr ""
+
+#: .\templates\problem\data.jade:367
+msgid "Input file"
+msgstr ""
+
+#: .\templates\problem\data.jade:368
+msgid "Output file"
+msgstr ""
+
+#: .\templates\problem\data.jade:370
+msgid "Pretest?"
+msgstr ""
+
+#: .\templates\problem\data.jade:403 .\templates\problem\submit.jade:201
+#: .\templates\problem\submit.jade:202
+msgid "Submit!"
+msgstr ""
+
+#: .\templates\problem\data.jade:403
+msgid "Add new case"
+msgstr ""
+
+#: .\templates\problem\editorial.jade:6
+msgid "Remember to use this editorial <b>only</b> when stuck, and <b>not to copy-paste code from it</b>. Please be respectful to the problem author and editorialist. <br/><br/> <b>Submitting an official solution before solving the problem yourself is a bannable offence.</b>"
+msgstr ""
+
+#: .\templates\problem\list.jade:63
+msgid "Filter by type..."
+msgstr ""
+
+#: .\templates\problem\list.jade:133
+msgid "Hot problems"
+msgstr ""
+
+#: .\templates\problem\list.jade:153 .\templates\problem\list.jade:161
+#: .\templates\problem\search-form.jade:23
+#: .\templates\user\user-problems.jade:161
+msgid "Category"
+msgstr ""
+
+#: .\templates\problem\list.jade:154 .\templates\problem\list.jade:163
+msgid "Types"
+msgstr ""
+
+#: .\templates\problem\list.jade:167
+#, python-format
+msgid "AC %%"
+msgstr ""
+
+#: .\templates\problem\problem.jade:40
+msgid "View as PDF"
+msgstr ""
+
+#: .\templates\problem\problem.jade:42 .\templates\problem\problem.jade:46
+#: .\templates\problem\problem.jade:47
+msgid "Submit solution"
+msgstr ""
+
+#: .\templates\problem\problem.jade:43
+#, python-format
+msgid "%(counter)s submission left"
+msgid_plural "%(counter)s submissions left"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\templates\problem\problem.jade:47
+msgid "0 submissions left"
+msgstr ""
+
+#: .\templates\problem\problem.jade:49
+msgid "My submissions"
+msgstr ""
+
+#: .\templates\problem\problem.jade:53
+msgid "Best submissions"
+msgstr ""
+
+#: .\templates\problem\problem.jade:59
+msgid "Manage tickets"
+msgstr ""
+
+#: .\templates\problem\problem.jade:61
+msgid "Edit problem"
+msgstr ""
+
+#: .\templates\problem\problem.jade:63
+msgid "Edit test data"
+msgstr ""
+
+#: .\templates\problem\problem.jade:66
+msgid "Clone problem"
+msgstr ""
+
+#: .\templates\problem\problem.jade:70 .\templates\problem\raw.jade:45
+msgid "Points:"
+msgstr ""
+
+#: .\templates\problem\problem.jade:71 .\templates\problem\problem.jade:72
+msgid "(partial)"
+msgstr ""
+
+#: .\templates\problem\problem.jade:74 .\templates\problem\raw.jade:57
+msgid "Time limit:"
+msgstr ""
+
+#: .\templates\problem\problem.jade:80 .\templates\problem\raw.jade:66
+msgid "Memory limit:"
+msgstr ""
+
+#: .\templates\problem\problem.jade:86
+msgid "Author:"
+msgid_plural "Authors:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\templates\problem\problem.jade:91
+msgid "Problem type"
+msgid_plural "Problem types"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\templates\problem\problem.jade:97 .\templates\problem\raw.jade:59
+msgid "Allowed languages"
+msgstr ""
+
+#: .\templates\problem\problem.jade:100
+#, python-format
+msgid "No %(lang)s judge online"
+msgstr ""
+
+#: .\templates\problem\problem.jade:104
+msgid "Request clarification"
+msgstr ""
+
+#: .\templates\problem\problem.jade:105
+msgid "Report an issue"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:3
+msgid "Problem search"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:8
+msgid "Search problems..."
+msgstr ""
+
+#: .\templates\problem\search-form.jade:12
+msgid "Full text search"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:16
+msgid "Hide solved problems"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:20
+msgid "Show problem types"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:26
+#: .\templates\problem\search-form.jade:27
+#: .\templates\submission\submission-list-tabs.jade:6
+msgid "All"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:34
+msgid "Problem types"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:41 .\templates\submission\list.jade:197
+#: .\templates\ticket\list.jade:194
+msgid "Go"
+msgstr ""
+
+#: .\templates\problem\search-form.jade:41
+msgid "Random"
+msgstr ""
+
+#: .\templates\problem\statistics-table.jade:2 .\templates\stats\base.jade:4
+msgid "Statistics"
+msgstr ""
+
+#: .\templates\problem\submit.jade:173
+#, python-format
+msgid " <b>Warning!</b> Your default language, <b>%(default_language)s</b>, is unavailable for this problem and has been deselected."
+msgstr ""
+
+#: .\templates\problem\submit.jade:176
+#, python-format
+msgid " You have %(counter)s submission left\n"
+msgid_plural "You have %(counter)s submissions left"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: .\templates\problem\submit.jade:180
+msgid "You have 0 submissions left"
+msgstr ""
+
+#: .\templates\problem\submit.jade:200
+msgid "No judge is available for this problem."
+msgstr ""
+
+#: .\templates\registration\activate.jade:2
+#, python-format
+msgid "%(key)s is an invalid activation key."
+msgstr ""
+
+#: .\templates\registration\activation_complete.jade:2
+msgid "Your account has been successfully activated."
+msgstr ""
+
+#: .\templates\registration\login.jade:33
+msgid "Invalid username or password."
+msgstr ""
+
+#: .\templates\registration\login.jade:50
+msgid "Login!"
+msgstr ""
+
+#: .\templates\registration\login.jade:52
+msgid "Forgot your password?"
+msgstr ""
+
+#: .\templates\registration\login.jade:53
+msgid "Or log in with..."
+msgstr ""
+
+#: .\templates\registration\logout.jade:2
+msgid "See you later!"
+msgstr ""
+
+#: .\templates\registration\password_change_done.jade:2
+msgid "Your password was sucessfully changed."
+msgstr ""
+
+#: .\templates\registration\password_change_form.jade:5
+msgid "Change Password"
+msgstr ""
+
+#: .\templates\registration\password_reset.jade:5
+msgid "Send Reset Email"
+msgstr ""
+
+#: .\templates\registration\password_reset_complete.jade:2
+msgid "Your password has been set.  You may go ahead and log in now"
+msgstr ""
+
+#: .\templates\registration\password_reset_complete.jade:2
+msgid "Log in"
+msgstr ""
+
+#: .\templates\registration\password_reset_confirm.jade:5
+msgid "Reset Password"
+msgstr ""
+
+#: .\templates\registration\password_reset_done.jade:1
+msgid "<p>We've emailed you instructions for setting your password. You should be receiving them shortly.</p> <p>If you don't receive an email, please make sure you've entered the address you registered with, and check your spam folder.</p>"
+msgstr ""
+
+#: .\templates\registration\password_reset_email.txt:2
+#, python-format
+msgid "You're receiving this email because you requested a password reset for your user account at %(site_name)s."
+msgstr ""
+
+#: .\templates\registration\password_reset_email.txt:4
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+
+#: .\templates\registration\password_reset_email.txt:8
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: .\templates\registration\password_reset_email.txt:10
+msgid "Thanks for using our site!"
+msgstr ""
+
+#: .\templates\registration\password_reset_email.txt:12
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: .\templates\registration\password_reset_subject.txt:2
+#, python-format
+msgid "Password reset on %(site_name)s"
+msgstr ""
+
+#: .\templates\registration\profile_creation.jade:16
+#: .\templates\registration\username_select.jade:4
+msgid "Continue >"
+msgstr ""
+
+#: .\templates\registration\registration_complete.jade:2
+msgid "You have successfully been registered. An email has been sent to the email address you provided to confirm your registration."
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:130
+msgid "(again, for confirmation)"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:135
+msgid "or"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:136
+msgid "pick from map"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:139
+msgid "Default language"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:140
+#: .\templates\user\edit-profile.jade:122
+msgid "Affiliated organizations"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:143
+#: .\templates\user\edit-profile.jade:103
+msgid "Notify me about upcoming contests"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:147
+msgid "By registering, you agree to our "
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:147
+msgid "Terms & Conditions"
+msgstr ""
+
+#: .\templates\registration\registration_form.jade:148
+msgid "Register!"
+msgstr ""
+
+#: .\templates\stats\language.jade:40
+msgid "Submission Statistics"
+msgstr ""
+
+#: .\templates\stats\language.jade:45
+msgid "Submissions by Language"
+msgstr ""
+
+#: .\templates\stats\language.jade:50
+msgid "AC Submissions by Language"
+msgstr ""
+
+#: .\templates\stats\language.jade:55
+msgid "Language AC Rate"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:3
+msgid "Judge"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:4
+msgid "Online"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:5
+msgid "Uptime"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:6
+msgid "Ping"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:7
+msgid "Load"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:16
+#: .\templates\status\judge-status-table.jade:19
+#: .\templates\status\judge-status-table.jade:22
+msgid "N/A"
+msgstr ""
+
+#: .\templates\status\judge-status-table.jade:29
+msgid "There are no judges available at this time."
+msgstr ""
+
+#: .\templates\status\language-list.jade:22
+msgid "Runtime Info"
+msgstr ""
+
+#: .\templates\status\status-tabs.jade:6
+msgid "Judges"
+msgstr ""
+
+#: .\templates\submission\internal-error-message.jade:2
+#, python-format
+msgid "An internal error occurred while grading, and the %(SITE_NAME)s administrators have been notified.<br/>In the meantime, try resubmitting in a few seconds."
+msgstr ""
+
+#: .\templates\submission\internal-error-message.jade:3
+msgid "An internal error occurred while grading."
+msgstr ""
+
+#: .\templates\submission\internal-error-message.jade:7
+msgid "Error information"
+msgstr ""
+
+#: .\templates\submission\list.jade:12
+msgid "Filter by status..."
+msgstr ""
+
+#: .\templates\submission\list.jade:14
+msgid "Filter by language..."
+msgstr ""
+
+#: .\templates\submission\list.jade:177
+msgid "Filter submissions"
+msgstr ""
+
+#: .\templates\submission\list.jade:211
+msgid "You were disconnected. Refresh to show latest updates."
+msgstr ""
+
+#: .\templates\submission\row.jade:16
+msgid "Case "
+msgstr ""
+
+#: .\templates\submission\row.jade:20
+msgid "view"
+msgstr ""
+
+#: .\templates\submission\row.jade:20
+msgid "rejudge"
+msgstr ""
+
+#: .\templates\submission\row.jade:20
+msgid "admin"
+msgstr ""
+
+#: .\templates\submission\source.jade:29
+msgid "View status"
+msgstr ""
+
+#: .\templates\submission\source.jade:31
+msgid "View raw source"
+msgstr ""
+
+#: .\templates\submission\source.jade:33 .\templates\submission\status.jade:149
+msgid "Resubmit"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:2
+msgid "We are waiting for a suitable judge to process your submission..."
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:3
+msgid "Your submission is being processed..."
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:4
+msgid "Compilation Error"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:6
+msgid "Compilation Warnings"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:9
+msgid "Pretest Execution Results"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:10
+msgid "Execution Results"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:10
+msgid "Batch "
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:10
+#: .\templates\submission\status-testcases.jade:34
+#: .\templates\submission\status-testcases.jade:35
+#, python-format
+msgid "(%(points)s/%(total)s points)"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:13
+msgid "Case"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:13
+msgid "Pretest"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:13
+msgid "Test case"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:27
+msgid "Your output (clipped)"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:33
+msgid "Final pretest score:"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:33
+msgid "Final score:"
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:36
+msgid "Passing pretests does not guarantee a full score on system tests."
+msgstr ""
+
+#: .\templates\submission\status-testcases.jade:36
+msgid "Submission aborted!"
+msgstr ""
+
+#: .\templates\submission\status.jade:147
+msgid "View source"
+msgstr ""
+
+#: .\templates\submission\status.jade:161
+msgid "Abort"
+msgstr ""
+
+#: .\templates\submission\submission-list-tabs.jade:9
+msgid "Mine"
+msgstr ""
+
+#: .\templates\submission\submission-list-tabs.jade:12
+msgid "Best"
+msgstr ""
+
+#: .\templates\submission\submission-list-tabs.jade:16
+#, python-format
+msgid "%(username)s's"
+msgstr ""
+
+#: .\templates\ticket\list.jade:113 .\templates\ticket\ticket.jade:250
+msgid "Reopened: "
+msgstr ""
+
+#: .\templates\ticket\list.jade:116 .\templates\ticket\ticket.jade:251
+msgid "Closed: "
+msgstr ""
+
+#: .\templates\ticket\list.jade:175
+msgid "Use desktop notification"
+msgstr ""
+
+#: .\templates\ticket\list.jade:180
+msgid "Show my tickets only"
+msgstr ""
+
+#: .\templates\ticket\list.jade:183
+msgid "Filing user"
+msgstr ""
+
+#: .\templates\ticket\list.jade:189
+msgid "Assignee"
+msgstr ""
+
+#: .\templates\ticket\list.jade:206
+msgid "Title"
+msgstr ""
+
+#: .\templates\ticket\list.jade:208 .\templates\ticket\ticket.jade:285
+msgid "Assignees"
+msgstr ""
+
+#: .\templates\ticket\new_problem.jade:2
+msgid "Thanks for opening a ticket!"
+msgstr ""
+
+#: .\templates\ticket\new_problem.jade:2
+msgid "Please keep in mind that this form is for reporting issues with a problem statement, and not for asking for help. If you require assistance on solving a problem, ask in the comments instead."
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:280
+msgid "Associated object"
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:289
+msgid "No one is assigned."
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:292
+msgid "Close ticket"
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:293
+msgid "Reopen ticket"
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:295
+msgid "Assignee notes"
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:298 .\templates\widgets\select_all.jade:5
+msgid "Nothing here."
+msgstr ""
+
+#: .\templates\ticket\ticket.jade:333
+msgid "Post"
+msgstr ""
+
+#: .\templates\user\base-users-table.jade:4
+msgid "Rank"
+msgstr ""
+
+#: .\templates\user\base-users.jade:10 .\templates\user\base-users.jade:124
+msgid "Search by handle..."
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:65
+msgid "Display name"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:67
+msgid "Self-description"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:89
+msgid "Editor theme"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:96
+msgid "Math engine"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:112
+msgid "Change your avatar"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:116
+msgid "Change your password"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:127
+msgid "User-script"
+msgstr ""
+
+#: .\templates\user\edit-profile.jade:129
+msgid "Update profile"
+msgstr ""
+
+#: .\templates\user\user-about.jade:93
+msgid "From"
+msgstr ""
+
+#: .\templates\user\user-about.jade:95 .\templates\user\user-tabs.jade:6
+msgid "About"
+msgstr ""
+
+#: .\templates\user\user-about.jade:96
+msgid "You have not shared any information."
+msgstr ""
+
+#: .\templates\user\user-about.jade:97
+msgid "This user has not shared any information."
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Rank by points:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Total points:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "View submissions"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Rank by rating:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Rating:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Volatility:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Min. rating:"
+msgstr ""
+
+#: .\templates\user\user-base.jade:32
+msgid "Max rating:"
+msgstr ""
+
+#: .\templates\user\user-problems.jade:142
+msgid "Points Breakdown"
+msgstr ""
+
+#: .\templates\user\user-problems.jade:152
+msgid "Load more..."
+msgstr ""
+
+#: .\templates\user\user-problems.jade:153
+msgid "This user has not yet solved any problems."
+msgstr ""
+
+#: .\templates\user\user-problems.jade:155
+msgid "Authored Problems"
+msgstr ""
+
+#: .\templates\user\user-problems.jade:179
+msgid "Hide problems I've solved"
+msgstr ""
+
+#: .\templates\user\user-problems.jade:191
+msgid "Score"
+msgstr ""
+
+#: .\templates\user\user-tabs.jade:11
+msgid "Impersonate"
+msgstr ""
+
+#: .\templates\user\user-tabs.jade:17
+msgid "Admin User"
+msgstr ""
+
+#: .\templates\user\user-tabs.jade:20
+msgid "Admin Profile"
+msgstr ""
+
+#: .\templates\widgets\select_all.jade:8
+msgid "Check all"
+msgstr ""
+

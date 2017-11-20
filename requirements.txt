@@ -1,0 +1,20 @@
+Django==1.11.5
+django_compressor
+django-mptt>=0.8.4,<0.9
+-e git://github.com/DMOJ/django-pagedown.git#egg=django-pagedown
+django-registration-redux>=1.7,<1.8
+django-reversion
+django-social-share
+django-sortedm2m
+django-impersonate
+# -e git://github.com/DMOJ/dmoj-wpadmin.git#egg=dmoj-wpadmin
+lxml
+Pygments
+mistune
+-e git://github.com/DMOJ/pyjade.git#egg=pyjade
+python-social-auth>=0.2,<0.3
+pytz
+django-statici18n
+pika
+ua-parser
+pyyaml
